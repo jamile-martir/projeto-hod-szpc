@@ -60,6 +60,6 @@ Este projeto representa uma das minhas experiências iniciais com desenvolviment
 
 ---
 
-Desenvolvido por **Jamile Martir** 💜
+Desenvolvido por **Jamile Martir** 
 
 🎓 Estudante de Inteligência Artificial na Universidade Federal de Ouro Preto (UFOP).
