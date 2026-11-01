@@ -27,6 +27,7 @@ O projeto foi desenvolvido como parte do meu processo de aprendizado em desenvol
 
 ```text
 projeto-hod-szpc/
+
 │
 ├── index.html
 ├── responsivo.css
